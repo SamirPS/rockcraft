@@ -1,3 +1,5 @@
+.. _how_to_convert_pebble:
+
 How to convert a popular entrypoint to a Pebble layer
 *****************************************************
 
