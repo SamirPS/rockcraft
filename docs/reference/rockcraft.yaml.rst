@@ -136,6 +136,10 @@ The set of architecture-specific ROCKs to be built. Supported architectures are:
 Entries in the ``platforms`` dict can be free-form strings, or the name of a
 supported architecture.
 
+.. warning::
+   At the moment Rockcraft will only build for an architecture, if the
+   host is compatible with the architecture
+
 ``platforms.<entry>.build-on``
 ------------------------------
 

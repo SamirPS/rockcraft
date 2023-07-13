@@ -26,9 +26,15 @@ For example:
 Interoperability between ROCKs and other containers also extends to the way
 that container images are built. This enables the use of ROCKs as bases for
 existing build recipes, such as Dockerfiles, for further customisation and
-development.
+development. 
 
-The ROCKs ecosystem comprises:
+The ROCKs ecosystem comprises
+
+.. figure:: /_static/rockcraft_diagram.jpg
+   :width: 75%
+   :align: center
+   :alt: ROCKs ecosystem
+
 
 Chisel
 ------

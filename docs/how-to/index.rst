@@ -22,5 +22,5 @@ adapt the steps to fit your specific requirements.
    Convert an entrypoint to a Pebble layer <convert-to-pebble-layer.rst>
    contribute-docs
    use-chisel
-   How to convert your ROCK to a docker image <convert-rock-to-docker-image.rst>
+   Convert your ROCK to a docker image <convert-rock-to-docker-image.rst>
 
